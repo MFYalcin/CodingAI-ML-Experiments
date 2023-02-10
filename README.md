@@ -2,5 +2,6 @@
 Electronics and Coding
 Python Projects 1
 
-- In this project, the game called Hangman is referenced and a word list is iterated to the code as imported.
+- In the first project, the game called Hangman is referenced and a word list is iterated to the code as imported.
 - Some the projects' links can be found through project.txt file.
+- Other AI related projects are going to be submitted here
